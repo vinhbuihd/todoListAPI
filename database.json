@@ -1,0 +1,14 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "Làm bài tập Javascript",
+      "status": true
+    },
+    {
+      "id": 5,
+      "title": "Đi chợ",
+      "status": true
+    }
+  ]
+}
